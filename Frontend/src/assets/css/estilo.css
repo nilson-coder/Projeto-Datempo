@@ -9,6 +9,11 @@
     margin: 0;
     padding: 0;
 }
+.custom-file{
+    width: 200px;
+    justify-content: center;
+    margin-top: 5px;
+}
 .link-linkedin{
     color: var(--roxo);
     font-size: 25px;
@@ -500,6 +505,7 @@ label input{
 }
 
 .btn_reservar{
+    margin-left: 18px;
     background-color: var(--roxo);
     color: white;
     text-transform: uppercase;
@@ -609,7 +615,7 @@ label input{
 .form_perfil label{
     padding: 0px 50px;
 }
-.imgperfil img{
+.imgperfil img {
     width: 200px;
     border: solid 2px var(--laranja);
     border-radius: 3px;
